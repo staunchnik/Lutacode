@@ -1,2 +1,2 @@
-student-landing-page-projects
+# student-landing-page-projects
 My frontend development pathway.
